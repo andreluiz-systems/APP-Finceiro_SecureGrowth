@@ -195,6 +195,15 @@ O passo a passo completo está em [`docs/guia-git-flow.md`](docs/guia-git-flow.m
 | Nome | Papel | GitHub |
 | --- | --- | --- |
 | André Luiz Pereira de Sousa | Desenvolvimento | [@andreluiz-systems](https://github.com/andreluiz-systems) |
+| João Vitor Oliveira Miranda | Integrante | |
+| João Pedro Pereira Albuquerque | Integrante | |
+| Raí Lugano Louseiro Angelim | Integrante | |
+| Alexandre Firmo Pereira Silva | Integrante | |
+| Luiz Eduardo Ferreira Trindade | Integrante | |
+| Daniel do Nascimento Pires | Integrante | |
+| Vitor Hugo Pereira de Oliveira | Integrante | |
+| Mathaus | Integrante | |
+| Vinicius Lima | Integrante | |
 
 ## 🎓 Contexto acadêmico
 
